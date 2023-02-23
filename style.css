@@ -1,0 +1,37 @@
+body {
+  font-family: "Space Mono", monospace;
+}
+.bg-image {
+  background-image: url("https://wallpapercave.com/wp/VyuQp6b.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  height: 540px;
+}
+.mt-negative {
+  margin-top: -200%;
+  margin-left: 17%;
+}
+.border {
+  border: 2px solid rgb(26, 25, 25) !important;
+}
+.mt-negative1 {
+  margin-top: -50%;
+  margin-left: 17%;
+}
+.overflow {
+  overflow-wrap: break-word !important;
+}
+.radiusOnButtons {
+  border-radius: 16px;
+}
+input[type="checkbox"] {
+  width: 23px;
+  height: 21px;
+}
+.height {
+  height: 150px !important;
+}
+.grow:hover {
+  transform: scale(1.2);
+}
